@@ -1,0 +1,197 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="KTVU HDTV (FOX)">
+    <display-name lang="en">KTVU HDTV (FOX)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="KTVU (FOX)">
+    <display-name lang="en">KTVU (FOX)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="KRON HDTV (MNT)">
+    <display-name lang="en">KRON HDTV (MNT)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="KRON (MNT)">
+    <display-name lang="en">KRON (MNT)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="KPIX HDTV (CBS)">
+    <display-name lang="en">KPIX HDTV (CBS)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="BFM News">
+    <display-name lang="fr">BFM News</display-name>
+    <url>http://www.bfmtv.com</url>
+  </channel>
+  <channel id="BFM Business">
+    <display-name lang="fr">BFM Business</display-name>
+    <url>http://www.bfmtv.com</url>
+  </channel>
+  <channel id="RMC Radio">
+    <display-name lang="fr">RMC Radio</display-name>
+    <url>http://www.bfmtv.com</url>
+  </channel>
+  <channel id="MSNBC USA">
+    <display-name lang="en">MSNBC USA</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="HBO Zone HD - East">
+    <display-name lang="en">HBO Zone HD - East</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Starz Edge - Eastern">
+    <display-name lang="en">Starz Edge - Eastern</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <programme start="20200628060000 +0200" stop="20200628063000 +0200" channel="BFM Business">
+    <title lang="fr">Intégrale Bourse</title>
+    <desc lang="fr">L'émission 100% Bourse.(n)</desc>
+  </programme>
+  <programme start="20200628063000 +0200" stop="20200628070000 +0200" channel="BFM Business">
+    <title lang="fr">Intégrale Placements</title>
+    <desc lang="fr">L'émission 100% placements.(n)</desc>
+  </programme>
+  <programme start="20200628070000 +0200" stop="20200628073000 +0200" channel="BFM Business">
+    <title lang="fr">Chine Éco</title>
+    <desc lang="fr">Chine Éco, l'éco vu de Chine.(n)</desc>
+  </programme>
+  <programme start="20200628073000 +0200" stop="20200628080000 +0200" channel="BFM Business">
+    <title lang="fr">La France a tout pour réussir</title>
+    <desc lang="fr">L’économie positive vue et entendue sur BFM Business.(n)</desc>
+  </programme>
+  <programme start="20200628080000 +0200" stop="20200628083000 +0200" channel="BFM Business">
+    <title lang="fr">12h L'Heure H</title>
+    <desc lang="fr">Toute l'info éco en 60 minutes.(n)</desc>
+  </programme>
+  <programme start="20200628083000 +0200" stop="20200628090000 +0200" channel="BFM Business">
+    <title lang="fr">Check up Santé</title>
+    <desc lang="fr">Au coeur de l’innovation santé.(n)</desc>
+  </programme>
+  <programme start="20200628090000 +0200" stop="20200628100000 +0200" channel="BFM Business">
+    <title lang="fr">Les Experts</title>
+    <desc lang="fr">Débats et Controverses sur BFM Business.(n)</desc>
+  </programme>
+  <programme start="20200628100000 +0200" stop="20200628110000 +0200" channel="BFM Business">
+    <title lang="fr">Good Morning Business</title>
+    <desc lang="fr">L'émission incontournable pour démarrer la journée.(n)</desc>
+  </programme>
+  <programme start="20200628110000 +0200" stop="20200628120000 +0200" channel="BFM Business">
+    <title lang="fr">La librairie de l’éco</title>
+    <desc lang="fr">Le meilleur de l’éco en livre.(n)</desc>
+  </programme>
+  <programme start="20200628120000 +0200" stop="20200628130000 +0200" channel="BFM Business">
+    <title lang="fr">Hors-série</title>
+    <desc lang="fr">Les Dossiers BFM Business.(n)</desc>
+  </programme>
+  <programme start="20200628130000 +0200" stop="20200628133000 +0200" channel="BFM Business">
+    <title lang="fr">Happy Boulot</title>
+    <desc lang="fr">La vie de bureau.(n)</desc>
+  </programme>
+  <programme start="20200628133000 +0200" stop="20200628140000 +0200" channel="BFM Business">
+    <title lang="fr">Objectif Raison d’être</title>
+    <desc lang="fr">Les entreprises face au défi de la RSE.(n)</desc>
+  </programme>
+  <programme start="20200628140000 +0200" stop="20200628143000 +0200" channel="BFM Business">
+    <title lang="fr">Check up Santé</title>
+    <desc lang="fr">Au coeur de l’innovation santé.(n)</desc>
+  </programme>
+  <programme start="20200628143000 +0200" stop="20200628150000 +0200" channel="BFM Business">
+    <title lang="fr">Le club du droit</title>
+    <desc lang="fr">Pour tout comprendre des lois.(n)</desc>
+  </programme>
+  <programme start="20200628150000 +0200" stop="20200628153000 +0200" channel="BFM Business">
+    <title lang="fr">Innover pour le commerce</title>
+  </programme>
+  <programme start="20200628153000 +0200" stop="20200628160000 +0200" channel="BFM Business">
+    <title lang="fr">BFM Stratégie</title>
+    <desc lang="fr">Les clefs de la réussite.(n)</desc>
+  </programme>
+  <programme start="20200628160000 +0200" stop="20200628163000 +0200" channel="BFM Business">
+    <title lang="fr">L'Hebdo des PME</title>
+  </programme>
+  <programme start="20200628163000 +0200" stop="20200628170000 +0200" channel="BFM Business">
+    <title lang="fr">Culture geek</title>
+  </programme>
+  <programme start="20200628170000 +0200" stop="20200628180000 +0200" channel="BFM Business">
+    <title lang="fr">Tech&amp;Co</title>
+    <desc lang="fr">Le grand live du numérique.(n)</desc>
+  </programme>
+  <programme start="20200628180000 +0200" stop="20200628190000 +0200" channel="BFM Business">
+    <title lang="fr">01 Business</title>
+    <desc lang="fr">Le magazine de l'accélération digitale.(n)</desc>
+  </programme>
+  <programme start="20200628190000 +0200" stop="20200628200000 +0200" channel="BFM Business">
+    <title lang="fr">C'est Votre Argent</title>
+    <desc lang="fr">Offrez un coach à votre portefeuille.(n)</desc>
+  </programme>
+  <programme start="20200628200000 +0200" stop="20200628210000 +0200" channel="BFM Business">
+    <title lang="fr">Club Média RH</title>
+    <desc lang="fr">La parole aux entreprises qui recrutent.(n)</desc>
+  </programme>
+  <programme start="20200628210000 +0200" stop="20200628220000 +0200" channel="BFM Business">
+    <title lang="fr">La librairie de l’éco</title>
+    <desc lang="fr">Le meilleur de l’éco en livre.(n)</desc>
+  </programme>
+  <programme start="20200628220000 +0200" stop="20200628223000 +0200" channel="BFM Business">
+    <title lang="fr">Hebdo com</title>
+    <desc lang="fr">Votre rendez-vous hebdomadaire avec les stratégies de marque.(n)</desc>
+  </programme>
+  <programme start="20200628223000 +0200" stop="20200628230000 +0200" channel="BFM Business">
+    <title lang="fr">Chine Éco</title>
+    <desc lang="fr">Chine Éco, l'éco vu de Chine.(n)</desc>
+  </programme>
+  <programme start="20200628230000 +0200" stop="20200628233000 +0200" channel="BFM Business">
+    <title lang="fr">Inside</title>
+    <desc lang="fr">Plongez au cœur de l'éco.(n)</desc>
+  </programme>
+  <programme start="20200628000000 +0200" stop="20200628003000 +0200" channel="RMC Radio">
+    <title lang="fr">J'aime courir</title>
+  </programme>
+  <programme start="20200628003000 +0200" stop="20200628004500 +0200" channel="RMC Radio">
+    <title lang="fr">Emission religieuse</title>
+  </programme>
+  <programme start="20200628004500 +0200" stop="20200628014500 +0200" channel="RMC Radio">
+    <title lang="fr">Votre Jardin</title>
+    <desc lang="fr">8 heures de loisirs, le weekend avec les experts de RMC !(n)</desc>
+  </programme>
+  <programme start="20200628040000 +0200" stop="20200628050000 +0200" channel="RMC Radio">
+    <title lang="fr">Votre Vie Numérique</title>
+    <desc lang="fr">8 heures de loisirs, le weekend avec les experts de RMC !(n)</desc>
+  </programme>
+  <programme start="20200628050000 +0200" stop="20200628060000 +0200" channel="RMC Radio">
+    <title lang="fr">Bourdin Direct</title>
+    <desc lang="fr">La matinale info qui dit tout et qui l’assume !(n)</desc>
+  </programme>
+  <programme start="20200628060000 +0200" stop="20200628070000 +0200" channel="RMC Radio">
+    <title lang="fr">De Quoi j'me mail</title>
+  </programme>
+  <programme start="20200628070000 +0200" stop="20200628100000 +0200" channel="RMC Radio">
+    <title lang="fr">Votre Auto</title>
+    <desc lang="fr">Le week-end, place aux loisirs avec Les Experts RMC.(n)</desc>
+  </programme>
+  <programme start="20200628100000 +0200" stop="20200628110000 +0200" channel="RMC Radio">
+    <title lang="fr">Les Paris RMC</title>
+  </programme>
+  <programme start="20200628110000 +0200" stop="20200628130000 +0200" channel="RMC Radio">
+    <title lang="fr">Les Grandes Gueules du Sport</title>
+    <desc lang="fr">Le grand débat sportif du week-end !(n)</desc>
+  </programme>
+  <programme start="20200628130000 +0200" stop="20200628140000 +0200" channel="RMC Radio">
+    <title lang="fr">La boite à souvenirs</title>
+  </programme>
+  <programme start="20200628140000 +0200" stop="20200628160000 +0200" channel="RMC Radio">
+    <title lang="fr">RMC Sport Show Revival</title>
+  </programme>
+  <programme start="20200628160000 +0200" stop="20200628180000 +0200" channel="RMC Radio">
+    <title lang="fr">Super Moscato Show</title>
+    <desc lang="fr">Le seul show de divertissement consacré au sport !(n)</desc>
+  </programme>
+  <programme start="20200628180000 +0200" stop="20200628190000 +0200" channel="RMC Radio">
+    <title lang="fr">Team Duga</title>
+    <desc lang="fr">Le n°1 des shows de foot à la radio !(n)</desc>
+  </programme>
+  <programme start="20200628190000 +0200" stop="20200628220000 +0200" channel="RMC Radio">
+    <title lang="fr">Soirée Municipales</title>
+  </programme>
+</tv>
